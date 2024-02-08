@@ -1,7 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css';
-import Carousel from './Pages/Carousel';
 
 
 import Navbar from './Pages/Navbar';

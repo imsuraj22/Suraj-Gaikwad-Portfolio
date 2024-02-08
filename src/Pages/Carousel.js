@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
-import data from "../data/index.json"
-export default function Carousel({images}) {
+import React from 'react';
+
+export default function Carousel() {
     
     return (
       <div className="carousel">
