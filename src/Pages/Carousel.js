@@ -127,7 +127,7 @@ export default function Carousel() {
                                             <h4 class="card-title">ShopEase</h4>
                                             <p class="card-text">This project is an Clothes Billing Appliation developed in Java that provides functionalities for both administrators and employees.</p>
                                             
-                                            <a href="https://github.com/imsuraj22/Clothes-Billing-Application" target={'_blank'} class="btn btn-primary " ><i class="fa fa-brands fa-github icons" style={{ fontSize: '1.8em' }}></i>  View Source Code</a>
+                                            <a href="https://github.com/imsuraj22/Clothes-Billing-Application" target={'_blank'} rel="noreferrer" class="btn btn-primary " ><i class="fa fa-brands fa-github icons" style={{ fontSize: '1.8em' }}></i>  View Source Code</a>
                                         </div>
 
                                     </div>
@@ -138,7 +138,7 @@ export default function Carousel() {
                                         <div class="card-body ">
                                             <h4 class="card-title">Style-Cart</h4>
                                             <p class="card-text">Stylecart is a front end part of ecommerce website.Not only normal people but disabled peoples can also navigate through this website as well as I have achieved responsiveness to support all type of devices.</p>
-                                            <a href="https://github.com/imsuraj22/Ecommerce-Website-" target={'_blank'} class="btn btn-primary " ><i class="fa fa-brands fa-github icons" style={{ fontSize: '1.8em' }}></i>  View Source Code</a>
+                                            <a href="https://github.com/imsuraj22/Ecommerce-Website-" target={'_blank'} rel="noreferrer" class="btn btn-primary " ><i class="fa fa-brands fa-github icons" style={{ fontSize: '1.8em' }}></i>  View Source Code</a>
 
                                         </div>
                                     </div>
@@ -149,7 +149,7 @@ export default function Carousel() {
                                         <div class="card-body">
                                             <h4 class="card-title">Car-Factory</h4>
                                             <p class="card-text">Car-Wave this is a car dealership application created using spring boot</p>
-                                            <a href="https://github.com/imsuraj22/Spring-Boot-Car-Dealers" target={'_blank'} class="btn btn-primary " ><i class="fa fa-brands fa-github icons" style={{ fontSize: '1.8em' }}></i>  View Source Code</a>
+                                            <a href="https://github.com/imsuraj22/Spring-Boot-Car-Dealers" target={'_blank'} rel="noreferrer" class="btn btn-primary " ><i class="fa fa-brands fa-github icons" style={{ fontSize: '1.8em' }}></i>  View Source Code</a>
 
                                         </div>
                                     </div>
