@@ -20,7 +20,7 @@ function HeroSection() {
                         </p>
 
                     </div>
-                    <button style={{ border: 'none', padding: 0, backgroundColor: 'transparent' }}><a href='https://drive.google.com/file/d/1o7rCCkx85P0APgG5VZJ_V-aFy43uWUqY/view?usp=drive_link' target={'_blank'} className='btn btn-primary'>
+                    <button style={{ border: 'none', padding: 0, backgroundColor: 'transparent' }}><a href='https://drive.google.com/file/d/1o7rCCkx85P0APgG5VZJ_V-aFy43uWUqY/view?usp=drive_link' target={'_blank'} rel="noreferrer" className='btn btn-primary'>
                         Download Resume
                     </a></button>
 
