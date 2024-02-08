@@ -47,8 +47,8 @@ function ContactMe() {
         <section id='Contact' className='contact--section'>
             <div>
                 <p className='sub--title'>Get In Touch</p>
-                <h2>Contact Me</h2>
-                <p className='text-lg'>The sun dipped below the horizon, casting a warm glow across the tranquil landscape. Birds chirped their evening melody as a gentle breeze rustled the leaves.</p>
+                <h2 className='skills--section--heading'>Contact Me</h2>
+                {/* <p className='text-lg'>The sun dipped below the horizon, casting a warm glow across the tranquil landscape. Birds chirped their evening melody as a gentle breeze rustled the leaves.</p> */}
             </div>
             <form id='form' ref={form} className='contact--form--container' onSubmit={sendEmail}>
                 <div className='container'>
