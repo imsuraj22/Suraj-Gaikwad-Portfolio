@@ -41,7 +41,7 @@ useEffect(() => {
             <div>
                 <p className='my--name'>Suraj Gaikwad</p>
             </div>
-            <a className={`nav__hamburger ${navActive ? "active":""}`} onClick={toggleNav}> <span className='nav__hamburger__line'></span>
+            <a href="!#" className={`nav__hamburger ${navActive ? "active":""}`} onClick={toggleNav}> <span className='nav__hamburger__line'></span>
             <span className='nav__hamburger__line'></span>
             <span className='nav__hamburger__line'></span></a>
 
