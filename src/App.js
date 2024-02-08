@@ -1,25 +1,39 @@
-import logo from './logo.svg';
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css';
+import Carousel from './Pages/Carousel';
 
+
+import Navbar from './Pages/Navbar';
+import Home from "./Pages/Home/HomeScreen"
 function App() {
+  // const images = [
+  //   'https://via.placeholder.com/800x400/ff5733/fff',
+  //   'https://via.placeholder.com/800x400/33ff57/fff',
+  //   'https://via.placeholder.com/800x400/5733ff/fff',
+  // ];
+  // return (
+  //   <div className="App">
+  //     {/* <h1>Simple React Carousel</h1> */}
+  //     <Carousel images={images} />
+  //   </div>
+  // );
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+     
+
+      <Router>
+        <div>
+        <Navbar />
+          <Routes>
+            <Route path='/' element={<Home />} />
+          </Routes>
+        </div>
+      </Router>
+
     </div>
   );
 }
 
 export default App;
+

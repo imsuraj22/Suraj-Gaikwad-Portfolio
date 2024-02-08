@@ -1,0 +1,81 @@
+{
+    "skills":[
+        {
+            "id":"1",
+            "src":"../img/product-chain-1.png",
+            "title":"Front-end",
+            "description":"lorem dk dldnad qddlqndld qlnqlddql qld qldqnddqlda alqnkewf qelkfnlkf  qlkf lkqfq dlk qf qlfl lfkqlefkekl."
+        },
+        {
+            "id":"2",
+            "src":"./img/tag-1.png",
+            "title":"Back-end",
+            "description":"lorem dk dldnad qddlqndld qlnqlddql qld qldqnddqlda alqnkewf qelkfnlkf  qlkf lkqfq dlk qf qlfl lfkqlefkekl."
+        },
+        {
+            "id":"3",
+            "src":"./img/feather-pen-2.png",
+            "title":"UI and UX Development",
+            "description":"lorem dk dldnad qddlqndld qlnqlddql qld qldqnddqlda alqnkewf qelkfnlkf  qlkf lkqfq dlk qf qlfl lfkqlefkekl."
+        },
+        {
+            "id":"4",
+            "src":"./img/feather-pen-1.png",
+            "title":"Web Development",
+            "description":"lorem dk dldnad qddlqndld qlnqlddql qld qldqnddqlda alqnkewf qelkfnlkf  qlkf lkqfq dlk qf qlfl lfkqlefkekl."
+        }
+    ],
+    "portfolio":[
+        {
+            "id":"1",
+            "src":"./img/image1.png",
+            "title":"ShopEase",
+            "description":"This project is an Clothes Billing Appliation developed in Java that provides functionalities for both administrators and employees.",
+            "link":"View in GitHub"
+        },
+        {
+            "id":"2",
+            "src":"./img/image2.png",
+            "title":"Style-Cart",
+            "description":"Stylecart is a front end part of ecommerce website.Not only normal people but disabled peoples can also navigate through this website as well as I have achieved responsiveness to support all type of devices.",
+            "link":"View in GitHub"
+        },
+        {
+            "id":"3",
+            "src":"./img/image3.png",
+            "title":"Car-Factory",
+            "description":"Car-Wave this is a car dealership application created using spring boot",
+            "link":"View in GitHub"
+        }
+    ],
+    "testimonial":[
+        {
+            "id":"1",
+            "count":"5",
+            "src":"./img/avatar-image.png",
+            "title":"Ahuse",
+            "description":"lorem dk dldnad qddlqndld qlnqlddql qld qldqnddqlda alqnkewf qelkfnlkf  qlkf lkqfq dlk qf qlfl lfkqlefkekl.",
+            "author_name":"Dianne Russel",
+            "author_designation":"starbucks"
+          
+        },
+        {
+            "id":"2",
+            "count":"5",
+            "src":"./img/avatar-image-1.png",
+            "title":"Ahuse",
+            "description":"lorem dk dldnad qddlqndld qlnqlddql qld qldqnddqlda alqnkewf qelkfnlkf  qlkf lkqfq dlk qf qlfl lfkqlefkekl.",
+            "author_name":"Kristin Watson",
+            "author_designation":"starbucks"
+        },
+        {
+            "id":"3",
+            "count":"5",
+            "src":"./img/avatar-image-2.png",
+            "title":"Ahuse",
+            "description":"lorem dk dldnad qddlqndld qlnqlddql qld qldqnddqlda alqnkewf qelkfnlkf  qlkf lkqfq dlk qf qlfl lfkqlefkekl.",
+            "author_name":"Kathryn Murphy",
+            "author_designation":"starbucks"
+        }
+    ]
+}
