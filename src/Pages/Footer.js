@@ -1,8 +1,6 @@
 import React from 'react'
 import { Link } from "react-scroll";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-// import { faSpinner, faLinkedin, faGithub, faInstagram } from '@fortawesome/free-brands-svg-icons';
-// import '@fortawesome/fontawesome-free/css/all.min.css'; // Import Font Awesome CSS
+
 
 function Footer() {
   return (

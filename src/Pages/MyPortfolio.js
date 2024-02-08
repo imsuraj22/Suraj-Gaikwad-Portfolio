@@ -1,14 +1,9 @@
 import React from 'react'
-import data from "../data/index.json"
+
 import Carousel from './Carousel'
 
 function MyPortfolio() {
-    const breakPoints=[
-        {width:1,itemsToShow:1},
-        {width:550,itemsToShow:2},
-        {width:768,itemsToShow:3},
-        {width:1200,itemsToShow:3},
-      ]
+   
     return (
         <div>
            <div id='MyPortfolio'>
